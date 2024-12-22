@@ -49,7 +49,7 @@ class AdvancedUserRecipe1277129332(BasicNewsRecipe):
         # (u'传媒', u'http://www.people.com.cn/rss/media.xml'),
         # (u'娱乐', u'http://www.people.com.cn/rss/ent.xml'),
         # (u'汽车', u'http://www.people.com.cn/rss/auto.xml'),
-        (u'海峡两岸', u'http://www.people.com.cn/rss/haixia.xml'),
+        # (u'海峡两岸', u'http://www.people.com.cn/rss/haixia.xml'),
         # (u'IT频道', u'http://www.people.com.cn/rss/it.xml'),
         # (u'环保', u'http://www.people.com.cn/rss/env.xml'),
         # (u'科技', u'http://www.people.com.cn/rss/scitech.xml'),
